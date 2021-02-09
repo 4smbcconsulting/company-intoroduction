@@ -9,4 +9,6 @@ li{
 a {
     font-weight: bold;
 }
-
+th{
+  text-align: left;
+}
